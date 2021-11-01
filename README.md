@@ -11,3 +11,5 @@ So the assignment requires:
 4. perform histogram equalization to the image
 5. save the resulting image to he-splash.png
 the prototype code is provided, and for turnning-in, implemented code, and the resulting image file should be submitted.
+Some restrictions:
+The histogram collected from the image is a strict image histogram.  
